@@ -1,0 +1,31 @@
+Version: 0.1 (July 26, 2012):
+
+* PORT TO 1.10
+
+* run wmllint
+* scenario 01 - grammar changes to story, mixed fighter -> archer
+* scenario 02 - split die into die and last breath
+* scenario 04, bts-utils - die -> last breath
+* _main.cfg - updated porting credit, forum link
+
+Version: 0.04 (January 22, 2012):
+
+* scenario 04,11 - Captian -> Captain
+* scenario 05,06 - Javilineer -> Javelineer
+
+Version: 0.03 (January 19, 2012):
+
+* scenario 05,06,10,11 - Calvaryman -> Cavalryman
+* _main.cfg - added forum topics
+
+Version: 0.02 (January 11, 2012):
+
+* PORT TO 1.8
+
+* run wmllint, change binary path
+* scenario 01 - fix recruitment pattern bug
+* _main.cfg - changed maintenance credit to porting credit, changed rank to be above 400, added path to textdomain
+
+Version: 0.01 (Imcomplete) (April 19, 2009):
+
+* UPLOADED for 1.6
